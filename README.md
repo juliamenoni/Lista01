@@ -1,10 +1,11 @@
-Estruturas de Repetição em JavaScript
+**Estruturas de Repetição em JavaScript**
 Sobre o Projeto
 
 Este repositório contém a resolução de uma lista de exercícios sobre estruturas de repetição utilizando JavaScript.
 
 A atividade tem como objetivo praticar o uso de laços de repetição para realizar contagens crescentes e decrescentes, trabalhar com incrementos personalizados e desenvolver algoritmos capazes de lidar com diferentes entradas fornecidas pelo usuário.
-Conteúdo Desenvolvido
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Exercício 1 ======================================================================
 
 Programa que exibe uma contagem de 6 até 12 e, ao final, mostra a mensagem "FIM".
